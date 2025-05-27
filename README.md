@@ -44,5 +44,6 @@ https://github.com/aimacode/aima-python/blob/master/csp.py
 
 ### How to Run
 
+```python
 python exam_timetabling.py
 
